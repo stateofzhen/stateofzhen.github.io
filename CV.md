@@ -4,7 +4,7 @@
  + PhD Business Administration - Operations Management
 
 [2008 - 2012] Columbia University
- + BS  ++ Operations Research, Economics
+ + BS - Operations Research, Economics
  
 ## Work Experience
 + [2018] Economic Research Data Scientist Intern, Zillow
