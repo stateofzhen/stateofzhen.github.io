@@ -1,2 +1,2 @@
-[Home](/index.md)
-[CV](/CV.md)
+* [Home](/index.md)
+* [CV](/CV.md)
