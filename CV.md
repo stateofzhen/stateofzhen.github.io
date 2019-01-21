@@ -30,3 +30,6 @@ R, SQL, Tableau, Qualtrics, Python, Matlab, LaTeX, Cplex, Gurobi
 ## Publications
 + Revenue Sharing and Subscription Platforms for Digital Content Distribution (Under review at Management Science)
 + Supply Chain Design for Substitutable Digital and Physical Information Goods (Preparing for submission to Management Science)
+
+## Recreational Interests
+rock climbing, classical music, baking, reading behavioral economics literature
