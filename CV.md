@@ -18,7 +18,7 @@
 + subscription services
 + supply chain management, operations management
 + supply chain contracting
-+ applied game theory
++ economics, applied game theory
 
 ## Service
 + [2018-2019] Fuqua (Business School) PhD Program Representative, Duke Graduate & Professional Student Council
@@ -28,8 +28,8 @@
 R, SQL, Tableau, Qualtrics, Python, Matlab, LaTeX, Cplex, Gurobi
 
 ## Publications
-+ Revenue Sharing and Subscription Platforms for Digital Content Distribution (Under review at Management Science)
-+ Supply Chain Design for Substitutable Digital and Physical Information Goods (Preparing for submission to Management Science)
++ Revenue Sharing and Subscription Platforms for Digital Content Distribution (Under review at Management Science) (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3314345)
++ Supply Chain Design for Substitutable Digital and Physical Information Goods (Preparing for submission to Management Science) 
 
 ## Recreational Interests
-rock climbing, classical music, baking, reading behavioral economics literature
+rock climbing, classical music, baking, reading mixed methods research literature
