@@ -1,3 +1,7 @@
+Title: About me
+Date: 2022-05-14 
+Category: About
+
 ## About me
 
 Hello! I'm a data science leader with a background in operations management. I currently work in fintech and consult on ops management, data + analytics and causal inference in healthcare policy. Please reach out if you want to chat about how I might be able to help you with your data or stats challenges. 
